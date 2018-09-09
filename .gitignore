@@ -1,5 +1,2 @@
-include/enabled/*
-started/enabled/*
-ended/enabled/*
 tmp/*
 .DS_Store
